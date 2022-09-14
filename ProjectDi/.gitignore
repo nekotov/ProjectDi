@@ -1,0 +1,18 @@
+### MonoDevelop template
+#User Specific
+*.userprefs
+*.usertasks
+obj/
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
